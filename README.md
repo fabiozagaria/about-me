@@ -4,6 +4,15 @@ Sono un aspirante **Software Developer Full Stack** di Roma, con una direzione p
 
 Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti concreti per trasformare il mio interesse per la programmazione in una professione. Il mio percorso non nasce da una scorciatoia: nasce dalla scelta quotidiana di imparare, sperimentare e migliorare.
 
+<!-- availability-status:start -->
+
+> [!IMPORTANT]
+> **Pausa programmata - dal 29 agosto al 6 settembre 2026.**
+>
+> In quei giorni non sarò disponibile per attività di studio, sviluppo o nuove collaborazioni. Riprenderò dal 7 settembre.
+
+<!-- availability-status:end -->
+
 ## Chi sono
 
 - Mi sto specializzando nello sviluppo backend con **Java, Spring Boot e MySQL**.
