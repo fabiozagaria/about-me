@@ -33,7 +33,9 @@ Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti 
 
 ### Strumenti e qualità
 
-`Git` · `GitHub` · `Postman` · `JUnit` · `Mockito` · `Docker`
+`Git` · `GitHub` · `Postman` · `JUnit` · `Mockito`
+
+**Prossimo consolidamento:** Docker, da aggiungere alle competenze dimostrate dopo la prima configurazione riproducibile con Dockerfile e Docker Compose.
 
 ## I miei obiettivi
 
