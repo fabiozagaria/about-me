@@ -26,13 +26,13 @@ Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti 
 
 `Git` · `GitHub` · `Postman` · `JUnit` · `Mockito`
 
-**Prossimo consolidamento:** Docker, da aggiungere alle competenze dimostrate dopo la prima configurazione riproducibile con Dockerfile e Docker Compose.
+**Strumenti in consolidamento:** Docker e Compose sono presenti in Expense Tracker e nel branch backend di Transport Tickets. Redis viene esplorato come cache opzionale in Transport Tickets; questi strumenti restano oggetto di verifica pratica.
 
 ## I miei obiettivi
 
 1. Entrare nel settore IT come Junior Backend o Full Stack Developer.
 2. Progettare backend sicuri, leggibili, testabili e facili da mantenere.
-3. Trasformare gli esercizi in prodotti completi, documentati e realmente utilizzabili.
+3. Portare i progetti principali a traguardi verificabili, mantenendo gli esercizi come laboratori mirati.
 4. Rafforzare architettura software, database, testing e secure coding.
 5. Crescere fino a diventare uno sviluppatore affidabile, autonomo e capace di prendere buone decisioni tecniche.
 
@@ -49,9 +49,12 @@ Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti 
 
 ## Su cosa sto lavorando
 
-- Un **Expense Tracker full stack** con frontend Angular e backend Spring Boot.
-- Un **Task Manager** per approfondire JPA, Spring Security e autenticazione JWT.
-- API REST e mini CRUD per consolidare progettazione, validazione, persistenza ed error handling.
+- [Expense Tracker](https://github.com/fabiozagaria/expense-tracker-api): prodotto full stack Angular/Spring Boot con autenticazione, spese, entrate e riepilogo; verifica integrata e configurazione degli ambienti in consolidamento.
+- [Transport Tickets](https://github.com/fabiozagaria/transport-tickets/tree/study/backend-jpa-snapshot): laboratorio di dati, transazioni, concorrenza, ruoli e cache, con codice sviluppato anche tramite AI e verifiche critiche.
+- [JobFlow](https://github.com/fabiozagaria/job-flow): backend per job asincroni. Creazione/persistenza sono presenti; worker ed esecuzione reale sono il prossimo traguardo.
+- [Task Manager](https://github.com/fabiozagaria/task-manager-api-jpa-security), Student Management e gli esercizi del corso restano laboratori dedicati.
+
+Ogni progetto ha un problema specifico: integrazione full stack, dati/concorrenza oppure asincronia. L'AI viene usata con controllo del risultato e distinzione fra codice presente e comprensione verificata.
 
 ## Direzione
 
