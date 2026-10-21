@@ -49,9 +49,10 @@ Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti 
 
 ## Su cosa sto lavorando
 
-- [Expense Tracker](https://github.com/fabiozagaria/expense-tracker-api): prodotto full stack Angular/Spring Boot con autenticazione, spese, entrate e riepilogo; verifica integrata e configurazione degli ambienti in consolidamento.
+- [Expense Tracker](https://github.com/fabiozagaria/expense-tracker-api): prodotto full stack Angular 21/PrimeNG e Spring Boot con autenticazione, spese, entrate e riepilogo; demo pubblica Vercel/Render con MySQL Aiven/TLS e account condiviso. La registrazione online è disabilitata in attesa del provider email HTTPS; test dei casi limite e registrazione locale restano da consolidare.
 - [Transport Tickets](https://github.com/fabiozagaria/transport-tickets/tree/study/backend-jpa-snapshot): laboratorio di dati, transazioni, concorrenza, ruoli e cache, con codice sviluppato anche tramite AI e verifiche critiche.
 - [JobFlow](https://github.com/fabiozagaria/job-flow): backend per job asincroni. Creazione/persistenza sono presenti; worker ed esecuzione reale sono il prossimo traguardo.
+- [AccessDesk](https://github.com/fabiozagaria/accessdesk-api): esercitazione backend autonoma in sviluppo con Java 21, JPA, HTTP Basic, ruoli/permessi e MapStruct; completamento e verifiche funzionali ancora aperti.
 - [Task Manager](https://github.com/fabiozagaria/task-manager-api-jpa-security), Student Management e gli esercizi del corso restano laboratori dedicati.
 
 Ogni progetto ha un problema specifico: integrazione full stack, dati/concorrenza oppure asincronia. L'AI viene usata con controllo del risultato e distinzione fra codice presente e comprensione verificata.
