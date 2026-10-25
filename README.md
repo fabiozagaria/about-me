@@ -1,64 +1,38 @@
-# Ciao, sono Fabio Zagaria 👋
+# Fabio Zagaria
 
-Sono un aspirante **Software Developer Full Stack** di Roma, con una direzione precisa: costruire una carriera solida nello sviluppo software, con particolare attenzione al backend in **Java e Spring Boot**.
+**Junior Backend Developer · Java e Spring Boot · Roma**
 
-Oggi lavoro in ambito ospedaliero e, parallelamente, studio e sviluppo progetti concreti per trasformare il mio interesse per la programmazione in una professione. Il mio percorso non nasce da una scorciatoia: nasce dalla scelta quotidiana di imparare, sperimentare e migliorare.
+Sviluppo progetti personali con Java, Spring Boot e database relazionali. Per il frontend utilizzo Angular e TypeScript. Ho completato il percorso Full Stack LabForWeb e cerco la mia prima opportunità professionale nello sviluppo software.
 
-## Chi sono
+[Portfolio](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [Email](mailto:fabiozagaria@proton.me)
 
-- Mi sto specializzando nello sviluppo backend con **Java, Spring Boot e MySQL**.
-- Uso **Angular e TypeScript** per costruire interfacce web complete.
-- Mi interessano architettura, API REST, sicurezza, validazione, gestione degli errori e test.
-- Preferisco capire il *perché* di una soluzione prima di scrivere codice che semplicemente “funziona”.
-- Porto nei progetti la concretezza imparata lavorando in un ambiente operativo: responsabilità, adattamento e attenzione alle persone.
+## Tecnologie
 
-## Tecnologie che sto consolidando
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA / Hibernate, API REST.
+- **Database:** MySQL e PostgreSQL.
+- **Frontend:** Angular, TypeScript, JavaScript, HTML e CSS.
+- **Strumenti:** Git, Maven, Postman, Docker Compose, JUnit e Mockito.
 
-### Backend
+## Progetti principali
 
-`Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST API` · `MySQL`
+| Progetto | Contenuto | Stato |
+| --- | --- | --- |
+| **Expense Tracker** · [demo](https://gestionale-spese.vercel.app/) · [API](https://github.com/fabiozagaria/expense-tracker-api) · [frontend](https://github.com/fabiozagaria/expense-tracker-angular) | Gestione di spese, entrate e saldo; Angular, Spring Boot, JWT, refresh token e MySQL. | Demo pubblica; registrazione e verifica email attive. Test dei casi limite da ampliare. |
+| **[AccessDesk](https://github.com/fabiozagaria/accessdesk-api)** | Richieste di accesso software, ruoli e permessi, JPA, MapStruct e PostgreSQL predefinito. | In sviluppo; verifiche e consegna ancora aperte. |
+| **[JobFlow](https://github.com/fabiozagaria/job-flow)** | Backend Java per job: dominio, creazione, lettura e persistenza. | In sviluppo; worker ed esecuzione asincrona da completare. |
+| **[LabTV](https://github.com/fabiozagaria/labtv-angular)** · [demo](https://lab-tv.vercel.app/) | Client Angular per TMDB con HttpClient, RxJS e routing. | Versione 1.0.0 conclusa. |
 
-### Frontend
+## Laboratori e studio
 
-`Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+- [Transport Tickets](https://github.com/fabiozagaria/transport-tickets/tree/study/backend-jpa-snapshot): laboratorio backend su dati, transazioni, concorrenza e autorizzazione; il codice backend è nel branch collegato.
+- [Spring Scaffold CLI](https://github.com/fabiozagaria/spring-scaffold-cli): generatore Java di record DTO; MVP presente, sviluppo sospeso.
+- [Task Manager](https://github.com/fabiozagaria/task-manager-api-jpa-security): laboratorio JPA e Spring Security.
+- [Java Collections e Stream](https://github.com/fabiozagaria/java-streams-exercises) e [corso LabForWeb](https://github.com/fabiozagaria/labforweb-coursework): esercizi e materiale di ripasso.
 
-### Strumenti e qualità
+I README dei singoli repository descrivono avvio, funzionalità presenti e limiti conosciuti.
 
-`Git` · `GitHub` · `Postman` · `JUnit` · `Mockito`
+## Contatti
 
-**Strumenti in consolidamento:** Docker e Compose sono presenti in Expense Tracker e nel branch backend di Transport Tickets. Redis viene esplorato come cache opzionale in Transport Tickets; questi strumenti restano oggetto di verifica pratica.
+Disponibile per opportunità **Junior Backend / Full Stack** a Roma o da remoto in Italia.
 
-## I miei obiettivi
-
-1. Entrare nel settore IT come Junior Backend o Full Stack Developer.
-2. Progettare backend sicuri, leggibili, testabili e facili da mantenere.
-3. Portare i progetti principali a traguardi verificabili, mantenendo gli esercizi come laboratori mirati.
-4. Rafforzare architettura software, database, testing e secure coding.
-5. Crescere fino a diventare uno sviluppatore affidabile, autonomo e capace di prendere buone decisioni tecniche.
-
-## La mia mentalità
-
-> La velocità conta meno della direzione. La costanza conta più della giornata perfetta.
-
-- **Comprendere prima di copiare.** Il codice è utile solo se so spiegare perché funziona.
-- **Costanza invece di tutto-o-niente.** Anche una sessione breve può far avanzare un progetto.
-- **Gli errori sono dati.** Un bug non è una sconfitta: è un segnale da osservare e capire.
-- **Qualità senza perfezionismo.** Prima rendo la soluzione corretta, poi la miglioro con criterio.
-- **Responsabilità personale.** Chiedo aiuto per sbloccarmi, non per delegare il ragionamento.
-- **Progressi misurabili.** Progetti, commit, test e competenze dimostrabili valgono più delle intenzioni.
-
-## Su cosa sto lavorando
-
-- [Expense Tracker](https://github.com/fabiozagaria/expense-tracker-api): prodotto full stack Angular 21/PrimeNG e Spring Boot con autenticazione, spese, entrate e riepilogo; demo pubblica Vercel/Render con MySQL Aiven/TLS e account condiviso. La registrazione online è disabilitata in attesa del provider email HTTPS; test dei casi limite e registrazione locale restano da consolidare.
-- [Transport Tickets](https://github.com/fabiozagaria/transport-tickets/tree/study/backend-jpa-snapshot): laboratorio di dati, transazioni, concorrenza, ruoli e cache, con codice sviluppato anche tramite AI e verifiche critiche.
-- [JobFlow](https://github.com/fabiozagaria/job-flow): backend per job asincroni. Creazione/persistenza sono presenti; worker ed esecuzione reale sono il prossimo traguardo.
-- [AccessDesk](https://github.com/fabiozagaria/accessdesk-api): esercitazione backend autonoma in sviluppo con Java 21, JPA, HTTP Basic, ruoli/permessi e MapStruct; completamento e verifiche funzionali ancora aperti.
-- [Task Manager](https://github.com/fabiozagaria/task-manager-api-jpa-security), Student Management e gli esercizi del corso restano laboratori dedicati.
-
-Ogni progetto ha un problema specifico: integrazione full stack, dati/concorrenza oppure asincronia. L'AI viene usata con controllo del risultato e distinzione fra codice presente e comprensione verificata.
-
-## Direzione
-
-Non voglio soltanto cambiare lavoro. Voglio costruire competenze che reggano nel tempo, diventare più autonomo ogni mese e creare stabilità attraverso una professionalità reale.
-
-Questo profilo racconta il percorso mentre accade: ciò che studio, ciò che costruisco e ciò che imparo dagli errori.
+[Portfolio e curriculum](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [fabiozagaria@proton.me](mailto:fabiozagaria@proton.me)
