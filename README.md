@@ -4,14 +4,14 @@
 
 Sviluppo progetti personali con Java, Spring Boot e database relazionali. Per il frontend utilizzo Angular e TypeScript. Ho completato il percorso Full Stack LabForWeb e cerco la mia prima opportunità professionale nello sviluppo software.
 
-[Portfolio](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [Email](mailto:fabiozagaria@proton.me)
+[Portfolio](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [Email](mailto:zagariafabio1999@gmail.com)
 
 ## Tecnologie
 
-- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA / Hibernate, API REST.
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA / Hibernate, API REST, Redis (caching).
 - **Database:** MySQL e PostgreSQL.
 - **Frontend:** Angular, TypeScript, JavaScript, HTML e CSS.
-- **Strumenti:** Git, Maven, Postman, Docker Compose, JUnit e Mockito.
+- **Strumenti:** Git, Maven, Postman, Docker Compose, JUnit, Mockito e test di integrazione con Spring Boot.
 
 ## Progetti principali
 
@@ -35,4 +35,4 @@ I README dei singoli repository descrivono avvio, funzionalità presenti e limit
 
 Disponibile per opportunità **Junior Backend / Full Stack** a Roma o da remoto in Italia.
 
-[Portfolio e curriculum](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [fabiozagaria@proton.me](mailto:fabiozagaria@proton.me)
+[Portfolio e curriculum](https://fabio-zagaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabiozagaria) · [zagariafabio1999@gmail.com](mailto:zagariafabio1999@gmail.com)
