@@ -1,6 +1,6 @@
 # Contesto tecnico — About Me
 
-Aggiornato: 2026-09-08
+Aggiornato: 2026-11-16
 
 ## Ruolo del repository
 Profilo pubblico narrativo di Fabio Zagaria: direzione professionale, stack in consolidamento, metodo di lavoro e progetti principali.
